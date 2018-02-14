@@ -1,4 +1,4 @@
-# Recommender-Systems
+# Recommender Systems
 Collaborative Filtering based Recommender System
 
 #### DataSet: Click [here](https://grouplens.org/datasets/movielens/)
